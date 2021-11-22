@@ -1,0 +1,22 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="9">
+            <item index="0" class="java.lang.String" itemvalue="google-cloud-bigquery" />
+            <item index="1" class="java.lang.String" itemvalue="pandas-gbq" />
+            <item index="2" class="java.lang.String" itemvalue="google-auth-oauthlib" />
+            <item index="3" class="java.lang.String" itemvalue="google-cloud" />
+            <item index="4" class="java.lang.String" itemvalue="google-cloud-storage" />
+            <item index="5" class="java.lang.String" itemvalue="google-cloud-bigquery-storage" />
+            <item index="6" class="java.lang.String" itemvalue="google-cloud-core" />
+            <item index="7" class="java.lang.String" itemvalue="google-api-core" />
+            <item index="8" class="java.lang.String" itemvalue="google-auth" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
